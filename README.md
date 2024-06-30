@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahirthan
 - 👀 I’m interested in Computer Science, Engineering and Robotics
-- 🌱 I’m currently learning B.Sc.(Hons) Software Engineering
+- 🌱 I’m currently learning B.Sc.(Hons) Business Computer Systems
 - 💞️ I’m looking to collaborate on Team Learning
 - 📫 How to reach me through linktr.ee/sahirthan
 
